@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
+<!---
 <h1>
         Cole's shortcuts Autumn 2021
 </h1>
@@ -86,5 +86,5 @@ You can click the Preview link to take a look at your changes.
             </ul>
         </p> <br> <hr>
 
-
+--->
     
