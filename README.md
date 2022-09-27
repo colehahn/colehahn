@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @colehahn
-- 🌱 I’m currently studying computer engineering at UW
+- :computer: My personal webpage can be found at <a href="https://colehahn.github.io/">colehahn.github.io</a>
+- 🌱 I’m currently studying computer engineering at UW, but will graduate in early 2023!
 - 📫 You can email me at colehahn@uw.edu, feel free to reach out!!
 
 <!---
