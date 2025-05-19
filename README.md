@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @colehahn
 - :computer: My personal webpage can be found at <a href="https://colehahn.github.io/">colehahn.github.io</a>
-- 🌱 I’m currently studying computer engineering at UW, but will graduate in early 2023!
-- 📫 You can email me at colehahn@uw.edu, feel free to reach out!!
+- :office: I'm currently working as an SDE at Amazon
 
 <!---
 colehahn/colehahn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
